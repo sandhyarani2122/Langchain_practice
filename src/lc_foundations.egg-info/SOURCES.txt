@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-src/langchain_practice/__init__.py
-src/lc_foundations.egg-info/PKG-INFO
-src/lc_foundations.egg-info/SOURCES.txt
-src/lc_foundations.egg-info/dependency_links.txt
-src/lc_foundations.egg-info/requires.txt
-src/lc_foundations.egg-info/top_level.txt
